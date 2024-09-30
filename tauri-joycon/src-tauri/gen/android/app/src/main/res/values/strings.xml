@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">tauri-joycon</string>
+    <string name="main_activity_title">tauri-joycon</string>
+</resources>
